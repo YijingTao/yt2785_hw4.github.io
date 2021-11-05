@@ -1,0 +1,94 @@
+---
+title: "Yijing Tao's Resume"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+# Education Background
+
+## Undergraduate
+### School 
+Sun Yat-Sen University
+
+### Major
+BS of Pharmacy
+
+### GPA
+3.7/4.0
+
+### Award
+Third-class scholarship (09/2018)
+
+## Graduate
+### School
+The Columbia University
+Mailman School of Public Health
+
+### Major
+Biostatistics
+
+### Skills
+Cell culture, PCR, Flow cytometry, Computer-related drug research technology, Python, SPSS, R language
+
+# Research Experiences
+
+## 1. Research on the interaction between drugs and intestinal flora
+
+### Period
+09/2020-05/2021
+
+### Position
+Research assistant
+
+### Supervisor
+Wenbin Deng
+
+### Content
+This project aims to establish a mathematical model to analyze and predict the interaction between the intestinal flora and the characteristics or structures of drugs. SVM, AdaBoost, Gradient Boosting, Bagging and Random Forest algorithms in Python was used to construct prediction model. 
+
+## 2. NF45/NF90-mediated rDNA transcription provided a novel target for immunosuppressant development
+
+Hsiang-i Tsai, Xiaobin Zeng, Longshan Liu, Shengchang Xin, Yingyi Wu,Zhanxue Xu,Gan Liu, Zirong Bi, Dandan Su, Yijing Tao, et al. Embo molecular medicine (Article DOI: 10.15252/emmm.202012834)
+
+## 3. Research on the Effects of BIM Gene Deletion Polymorphism on the Efficacy of Anti-Cancer Drug Treatment in Non-small Cell Lung Cancer, (Cancer Center, Guangdong Academy of Medical Sciences) 
+
+### Period
+06/2020-09/2020
+
+### Position
+Research assistant
+
+### Supervisor
+Xuchao Zhang
+
+### Content
+It was found that the expression of BIM gene in East Asian population is lack of polymorphism and thus has no pro-apoptotic activity, which reduces the efficacy of cancer treatment. This project aims to study the actual influence and the methods to eliminate the impact on efficacy.
+
+## 4. Screening of mutational sites of single gene mutation diabetes mellitus (MODY10 subtype), research on pathogenic mechanism and establishment of diagnostic program (Innovative Training Program for University Students of Sun Yat-sen University)  
+
+### Period
+05/2019-12/2019
+
+### Position
+Project leader
+
+### Supervisor
+Hongbo Chen 
+
+### Content
+This project aims to find out one of the possible gene mutation sites of Asian people through epidemiological survey and exon sequencing. Then verify if the pathogenic mechanism is NMD escape by plasmid transfection, fluorescence staining observation and rtPCR research. 
+
+## 5. Establishment of a combined drug using regimen for Breast cancer through high-throughput genetic screening library Technology (National Innovative Training Program for College Students of Sun Yat-sen University)       
+
+### Period
+05/2018 -12/2018
+
+### Position
+Research assistant
+
+### Supervisor
+Hongbo Chen
+
+### Content
+This project aims to construct the CRISPR library of FDA-approved drugs using the hybrid library screening and establish the combination regimen which contains lapatinib as the first-line drug
