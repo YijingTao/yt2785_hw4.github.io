@@ -8,8 +8,7 @@ output:
 # Education Background
 
 ## Undergraduate
-### School 
-Sun Yat-Sen University
+
 
 ### Major
 BS of Pharmacy
