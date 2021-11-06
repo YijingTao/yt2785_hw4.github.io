@@ -16,4 +16,4 @@ navbar:
       href: yt2785.hw4.github.io.html
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
