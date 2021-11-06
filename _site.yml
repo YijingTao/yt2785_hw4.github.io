@@ -2,9 +2,6 @@ name: "Yijing Tao's Resume"
 output_dir: "."
 navbar:
   title: "Yijing Tao's Resume"
-  left:
-    - text: "Home"
-      href: yt2785.hw4.github.io.html
   right:
     - text: "Resume"
       href: resume.html
@@ -14,6 +11,9 @@ navbar:
       href: mailto:<yt2785@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/YijingTao/
-  output:
-    html_document:
-      theme: flatly
+  left:
+    - text: "Home"
+      href: yt2785.hw4.github.io.html
+output:
+  html_document:
+    theme: flatly
